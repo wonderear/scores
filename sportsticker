@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Toronto Blue Jays Live Score</title>
+</head>
+<body>
+    <div id="scorestream-widget" data-sswidget=<div class="scorestream-widget-container" data-ss_widget_type="horzScoreboard" data-user-widget-id="59950"></div><script async="async" type="text/javascript" src="https://scorestream.com/apiJsCdn/widgets/embed.js"></script>></div>
+    <script src="https://scorestream.com/api/js/widgloader.js" async></script>
+</body>
+</html>
